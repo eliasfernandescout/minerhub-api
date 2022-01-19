@@ -21,6 +21,7 @@
         "prettier"
     ],
     "rules": {
+        "no-var-requires": true,
         "prettier/prettier": "error",
         // "eslint no-underscore-dangle": "0",
         "camelcase": "off",
